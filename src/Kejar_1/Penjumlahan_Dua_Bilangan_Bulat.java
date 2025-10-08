@@ -12,5 +12,6 @@ public class Penjumlahan_Dua_Bilangan_Bulat {
         int c = a+b;
 
         System.out.println("Hasil Penjumlahan: " + c);
+        sc.close();
     }
 }
