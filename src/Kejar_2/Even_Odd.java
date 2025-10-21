@@ -4,10 +4,9 @@ import java.util.Scanner;
 
 public class Even_Odd {
 
-    static void main(String[] args) {
+    static void main() {
 
         Scanner input = new Scanner(System.in);
-
         int a = input.nextInt();
 
         // TERNARY
